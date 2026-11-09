@@ -1,0 +1,6 @@
+Flask
+opencv-python
+moviepy
+scenedetect
+ultralytics
+werkzeug
